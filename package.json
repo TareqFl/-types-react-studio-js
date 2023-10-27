@@ -1,0 +1,32 @@
+{
+  "name": "@types/react-studio-js",
+  "version": "1.0.0",
+  "description": "Type Declaration for react-studio-js",
+  "main": "react-studio-js.js",
+  "types": "react-studio-js.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "waveform",
+    "audio",
+    "audacity",
+    "stem",
+    "tracks",
+    "multitrack",
+    "playlist",
+    "music",
+    "editor",
+    "record",
+    "recording",
+    "player",
+    "webaudio",
+    "types/react-studio-js",
+    "react-studio-js",
+    "@types/react-studio-js",
+    "typescript",
+    "react-studio-js"
+  ],
+  "author": "Tareq Fleyfel",
+  "license": "MIT"
+}
