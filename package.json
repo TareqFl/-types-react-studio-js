@@ -1,6 +1,6 @@
 {
-  "name": "@types/react-studio-js",
-  "version": "1.0.0",
+  "name": "react-studio-js-types",
+  "version": "1.0.1",
   "description": "Type Declaration for react-studio-js",
   "main": "react-studio-js.js",
   "types": "react-studio-js.d.ts",
